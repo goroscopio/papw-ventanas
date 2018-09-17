@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: "bebasneue";
+    src: url("fonts/bebasneue.otf");
+}
+
+@font-face {
+    font-family: "lanenar";
+    src: url("fonts/lanenar.ttf");
+}
+
+@font-face {
+    font-family: "paloseco";
+    src: url("fonts/paloseco.ttf");
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #DFDCE3;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: lanenar;
+    font-size: 100%;
+    font-weight: 500;
+}
+#registeritemdiv{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:#4ABDAC;
+    border-radius: 7px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 3%;
+}
+
+.radioinputs{
+    display: unset;
+width: 10%;
+box-sizing: content-box;
+text-align: center;
+color:white;
+}
+
+.inputsnone{
+    text-align: center;
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #DFDCE3;
+    border-radius: 4px;
+    font-family: lanenar;
+    font-size: 100%;
+    font-weight: 500;
+}
+
+p{
+    font-family: lanenar;
+    color: white;
+    margin-bottom: 0%;
+}

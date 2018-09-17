@@ -1,0 +1,134 @@
+
+@font-face {
+    font-family: "bebasneue";
+    src: url("fonts/bebasneue.otf");
+}
+
+@font-face {
+    font-family: "lanenar";
+    src: url("fonts/lanenar.ttf");
+}
+
+@font-face {
+    font-family: "paloseco";
+    src: url("fonts/paloseco.ttf");
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #DFDCE3;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: lanenar;
+    font-size: 100%;
+}
+
+
+#logindiv{
+    border-radius: 7px;
+    font-family: lanenar;
+    font-size: 20px;
+    background-color:#4ABDAC;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding: 3%;
+}
+
+#extralogindiv{
+  margin-top: 3%;
+}
+
+h1{
+    font-family: paloseco;
+    font-size: 40px;
+    color:#FC4A1A;
+text-align: center;
+margin-bottom: 0%;
+}
+
+#submitbutton{
+    color: #DFDCE3;
+    color: rgb(255, 255, 255);
+
+    background-color: #F7B733;
+border-style: none;
+
+}
+body{
+    background-color:  rgb(255, 255, 255);
+}
+
+#remembercheckbox{
+    color: rgb(255, 255, 255);
+    font-size: 70%
+}
+
+#forgottenpassword{
+    color: rgb(255, 255, 255);
+    font-size: 70%;
+    margin: 0px;
+    
+}
+#forgottenpassword:hover{
+    color:  #F7B733;
+    font-size: 70%;
+    margin: 0px;
+    
+}
+
+#registerdiv{
+    background-color: #FC4A1A;
+    border-radius: 7px;
+    font-family: lanenar;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+text-align: center;
+color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#forgottendiv{
+    padding: 10%;
+    margin-top:1%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:#FC4A1A;
+    border-radius: 7px;
+}
+
+#registerdiv{
+padding: 3%;
+background-color: #F7B733;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+
+.registerp{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: left;
+}
+
+
+#registerydiv{
+    padding: 3%;
+    background-color:#FC4A1A;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 7px;
+    color: white;
+    text-align: center;
+    font-family: lanenar;
+    font-size: 120%;
+    }

@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "bebasneue";
+    src: url("fonts/bebasneue.otf");
+}
+
+@font-face {
+    font-family: "lanenar";
+    src: url("fonts/lanenar.ttf");
+}
+
+@font-face {
+    font-family: "paloseco";
+    src: url("fonts/paloseco.ttf");
+}
+
+#categoriestitle{
+    margin-top: 20px;
+    font-family: paloseco;
+    text-align: center;
+    color: #FC4A1A;
+}
+
+
+.titlecard{
+    font-family: lanenar;
+    text-align: center;
+    color: #FC4A1A;
+    font-weight: 400;
+}
+.titlecard:hover{
+    font-weight: 400;
+    color: rgb(252, 154, 26);
+    text-align: center;
+
+
+}
+
+.cost{
+    font-family: lanenar;
+    font-weight: 500;
+    text-align: center;
+    color: #4ABDAC;
+    
+}
+.card-footer{
+    text-align: center;
+    color:#F7B733;
+}
+.card-body{
+    text-align: center;
+}
+
+.list-group-item{
+    text-align: right;
+    font-family: paloseco;
+}
+
+.list-group-item{
+    text-transform: capitalize;
+    color: rgb(229, 233, 232);
+    background-color: #4ABDAC;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 7px;
+}
+
+.list-group-item:hover{
+    background-color:  #F7B733;
+    color: rgb(255, 255, 255);
+    font-size: 110%;
+}

@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "bebasneue";
+    src: url("fonts/bebasneue.otf");
+}
+
+@font-face {
+    font-family: "lanenar";
+    src: url("fonts/lanenar.ttf");
+}
+
+@font-face {
+    font-family: "paloseco";
+    src: url("fonts/paloseco.ttf");
+}
+
+.container{
+    margin-top: 2%;
+}
+
+#textarea{
+    width: 100%;
+    border-style: none;
+}
+
+#sendbutton{
+    margin-top: 10px;
+    font-family: paloseco;
+    border-style: none;
+    background-color: #4ABDAC;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 7px;
+    color: white;
+    text-align: center;
+
+}
+
+.card-header{
+    background-color: #F7B733;
+font-family: paloseco;
+color:white;
+}

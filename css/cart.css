@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "bebasneue";
+    src: url("fonts/bebasneue.otf");
+}
+
+@font-face {
+    font-family: "lanenar";
+    src: url("fonts/lanenar.ttf");
+}
+
+@font-face {
+    font-family: "paloseco";
+    src: url("fonts/paloseco.ttf");
+}
+
+.cartdiv {
+    background-color:rgb(245, 245, 245);
+font-family: lanenar;
+margin-top: 1%;
+font-weight: 500;
+margin-left: 20%;
+margin-right: 20%;
+border-radius: 7px;
+}
+.media-heading{
+    color: blueviolet;
+}
+a{
+    color: #4ABDAC;
+    text-align: center;
+}
